@@ -1,4 +1,4 @@
-# Basic Shell – Mini Operating System Project
+# Basic Shell – Operating System Mini Project
 
 This project is a very simple implementation of a UNIX-like shell (command interpreter) written in C. It demonstrates how real shells like bash, zsh, and sh internally work at the OS-level using system calls.
 
@@ -14,5 +14,3 @@ This shell supports:
 - Multiple arguments
 - Exit command
 - Simple looping shell prompt
-
-It is clean, minimal, and perfect for OS mini-project submission.
